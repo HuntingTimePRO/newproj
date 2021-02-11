@@ -1,1 +1,1 @@
-web:    java  -jar out/artifacts/newproj.jar Main
+web:    java  -jar out/artifacts/newproj_jar/newproj.jar Main
